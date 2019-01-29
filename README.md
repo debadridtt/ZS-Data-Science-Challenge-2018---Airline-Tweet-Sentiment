@@ -1,4 +1,4 @@
-# Airline-Tweet-Sentiment-Prediction--ZS-Associates-Data--Science-Challenge-2018-
+# ZS-Data-Science-Challenge-2018---Airline-Tweet-Sentiment
 A typical ML problem based on NLP put up by ZS Associates on Hackerearth
 
 Given dataset contains data of tweets on various airline’s twitter handles.
